@@ -1,7 +1,7 @@
 {
   "name": "04-podcastapp",
   "version": "1.0.0",
-  "description": "Clon UDEMY SASS Gulp Bootstrap",
+  "description": "Clon UDEMY SASS Gulp Bootstrap del curso de udemy",
   "main": "index.js",
   "scripts": {
     "dev": "gulp",
