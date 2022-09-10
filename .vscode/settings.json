@@ -1,8 +1,0 @@
-{
-    "editor.hover.enabled": true,
-    "workbench.editor.enablePreviewFromQuickOpen": true,
-    "editor.find.autoFindInSelection": "always",
-    "zenMode.restore": true,
-    "css.hover.references": true,
-    "less.hover.references": true
-}
